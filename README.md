@@ -1,6 +1,6 @@
 # friend-circle
 <hr>
-<h2>ritz541.github.io/friend-circle/</h2>
+<a href = "https://ritz541.github.io/friend-circle/">LINK FOR WEBSITE</a>
 Website for my friends<br>
 #screenshots
 "🌟 Friends' Hub: A Colorful Personal Website 🌟
