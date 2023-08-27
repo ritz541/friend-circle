@@ -1,0 +1,79 @@
+body {
+ margin: 0;
+ padding: 0;
+ background-color: ;
+ border-color: red green blue orange;
+ border: dotted;
+ border-color: red green blue orange;
+ border-width: thick;
+ border-style: dotted;
+}
+button{
+ background-color:grey;
+ border-radius: 10px;
+}
+h1 {
+ border: 5px double black;
+}
+h4 {
+ text-align: center;
+ color: silver;
+ font-weight: bold;
+}
+h6 {
+ font-family: courier;
+}
+p {
+ background-color: lavender;
+ color: white;
+}
+.flag{
+ background-color: ;
+}
+hr{
+ width: 200px;
+ height: 5px;
+ 
+}
+.ritz{
+ color: black;
+ text-align: right;
+ font-family: cursive;
+ 
+}
+.atharvnigade{
+ background-color: #E9897E;
+}
+.nikhilmandage{
+ background-color: #0072B5;
+}
+.ym{
+background-color: #F5DF4D;
+}
+.aj{
+ background-color: #9BB7D4;
+}
+.ulhas{
+background-color: #FDAC53;
+}
+.avinash{
+ background-color: #56C6A9;
+}
+.ap{
+ background-color: #FA7A35;
+}
+.pk{
+ background-color: #D9CE52;
+}
+.nb{
+ background-color: #FFBF00;
+}
+.mac{
+ background-color: #CC5500;
+}
+.si{
+ background-color: #FA5F55;
+}
+.jn{
+ background-color: #DE3163;
+}
