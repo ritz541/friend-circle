@@ -1,4 +1,6 @@
 # friend-circle
+<hr>
+<h2>ritz541.github.io/friend-circle/</h2>
 Website for my friends<br>
 #screenshots
 "🌟 Friends' Hub: A Colorful Personal Website 🌟
